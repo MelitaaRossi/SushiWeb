@@ -1,0 +1,24 @@
+{
+    "name": "sushiweb",
+    "version": "1.0.0",
+    "description": "Sushi Web Totoro's",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MelitaaRossi/SushiWeb.git"
+    },
+    "author": "cncorvalan@gmail.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MelitaaRossi/SushiWeb/issues"
+    },
+    "homepage": "https://github.com/MelitaaRossi/SushiWeb#readme",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "express": "^4.18.2"
+    }
+}
